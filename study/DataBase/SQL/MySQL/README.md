@@ -15,3 +15,4 @@ MySQL
 * 截断表 truncate
 * SELECT * FROM bo_businesslog WHERE find_in_set('11010800009928',sealnum) AND FIND_IN_SET("11001100015292",sealnum) 碰上字段中有俩内容例如：  1,2
 * mysql中 "%_%" 代表任意字符，如果需要使用下划线作为like 查询条件。则需要对字符进行转义"%\_%"
+* 
